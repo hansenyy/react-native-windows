@@ -2191,9 +2191,9 @@
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@^14.14.22":
-  version "14.17.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.19.tgz#7341e9ac1b5d748d7a3ddc04336ed536a6f91c31"
-  integrity sha512-jjYI6NkyfXykucU6ELEoT64QyKOdvaA6enOqKtP4xUsGY0X0ZUZz29fUmrTRo+7v7c6TgDu82q3GHHaCEkqZwA==
+  version "14.18.33"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.33.tgz#8c29a0036771569662e4635790ffa9e057db379b"
+  integrity sha512-qelS/Ra6sacc4loe/3MSjXNL1dNQ/GjxNHVzuChwMfmk7HuycRLVQN2qNY3XahK+fZc5E2szqQSKUyAF0E+2bg==
 
 "@types/node@10.17.13":
   version "10.17.13"
@@ -11670,8 +11670,9 @@ xmldoc@^1.1.2:
     sax "^1.2.1"
 
 xmldom@^0.6.0, "xmldom@github:xmldom/xmldom#^0.7.5":
-  version "0.7.5"
-  resolved "https://codeload.github.com/xmldom/xmldom/tar.gz/03fcf987307a9b1963075007d9fe2e8720fa7e25"
+  version "0.7.6"
+  uid "3ca016d7da634686dbcadd076dda07d28a8ffd45"
+  resolved "https://codeload.github.com/xmldom/xmldom/tar.gz/3ca016d7da634686dbcadd076dda07d28a8ffd45"
 
 xpath@^0.0.27:
   version "0.0.27"
