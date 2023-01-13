@@ -11670,8 +11670,9 @@ xmldoc@^1.1.2:
     sax "^1.2.1"
 
 xmldom@^0.6.0, "xmldom@github:xmldom/xmldom#^0.7.5":
-  version "0.7.5"
-  resolved "https://codeload.github.com/xmldom/xmldom/tar.gz/03fcf987307a9b1963075007d9fe2e8720fa7e25"
+  version "0.7.9"
+  uid "927392f627e8f9cf1ea051612c7996596a904c78"
+  resolved "https://codeload.github.com/xmldom/xmldom/tar.gz/927392f627e8f9cf1ea051612c7996596a904c78"
 
 xpath@^0.0.27:
   version "0.0.27"
